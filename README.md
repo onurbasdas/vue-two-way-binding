@@ -1,4 +1,4 @@
-# intro
+# vue two way binding
 This project is about two way binding. It use data from the jsonplaceholder.
 
 ## Project setup
